@@ -25,3 +25,25 @@ la grille de jeu
 Projet réalisé par :
 Transon Alexandre, Fauquette Mael, Mandin Paul, Karkashadze Luka
 
+
+To start the game:
+
+Open a terminal in the "livraison" folder.
+Run the following command in the terminal: ant main or ant.
+Follow the indicated steps.
+To run the tests:
+
+ant test
+Game Overview:
+For the graphical interface:
+
+Click on a piece to select it, then you can move it with the arrow keys or rotate it clockwise using the "e" key and counterclockwise with the "a" key.
+Then click "Enter" to confirm the piece's movement.
+Once you want to validate your response, press "Validate."
+
+The score will be calculated, and the game will stop; you will not be able to do anything further.
+
+The game limits the movement of the pieces to make it more challenging. Note that the number of movements corresponds to the number of pieces present on the game grid.
+
+Project completed by:
+Transon Alexandre, Fauquette Mael, Mandin Paul, Karkashadze Luka
